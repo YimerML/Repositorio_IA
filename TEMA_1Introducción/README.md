@@ -60,4 +60,7 @@ Al final se busca observar:
 
 CON EL OBJETIVO DE. Crear pruebas que respalden las desiciones sobre los datos.
 
+## CONJUNTO DE DATOS DE ENTREMIENTO Y PRUEBA
+
+![Diagrama de proceso de aplicacion de ML](image.png)
 
